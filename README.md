@@ -8,4 +8,4 @@ First custom champion for League Sandbox.
 * In `DATA` folder you can find the files for your LOL 4.20 
 * In `GameServer` you can find the files that must be in GameServer
 
-https://i.gyazo.com/abf1d131be6972b2f09bbeee48ec01a9.png
+![alt tag](https://i.gyazo.com/abf1d131be6972b2f09bbeee48ec01a9.png)
